@@ -94,14 +94,6 @@ font-weight: bold;
     color: #000000
 }
 
-/* work styles */
-.work {
-    /* padding-top: 100px;
-    padding-bottom: 50 px;
-    padding-left: 20 px;
-    padding-right: 40 px; */
-}
-
 .work-position {
     font-style: normal;
     font-weight: bold;
@@ -218,7 +210,7 @@ width: 370px;
     font-weight: normal;
     Font-size: 14px; 
     Line-height: 24px;
-    color:#3D4755;
+    color:#FFFFFF;
     }
 
 .tech-skills-list {
