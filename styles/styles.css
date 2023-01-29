@@ -21,6 +21,10 @@ body {
     padding: 105px 90px;
 }
 
+.list {
+    list-style: none;
+}
+
 /* about styles */
 .about {
    margin-bottom: 40px;
